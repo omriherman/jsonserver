@@ -9,16 +9,6 @@
             },
             "status": "draft",
             "createdAt": "2021-10-02T18:48:15.753Z"
-        },
-        {
-            "id": 2,
-            "title": "Suscipit A Quaerat",
-            "content": "Eum molestias necessitatibus mollitia molestias nihil illum et iusto voluptas. Officia cumque enim sed tenetur. ",
-            "category": {
-                "id": 17
-            },
-            "status": "rejected",
-            "createdAt": "2022-07-12T14:40:49.443Z"
         }
     ]
 }
