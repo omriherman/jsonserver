@@ -19,36 +19,6 @@
             },
             "status": "rejected",
             "createdAt": "2022-07-12T14:40:49.443Z"
-        },
-        {
-            "id": 3,
-            "title": "Sapiente Voluptas Pariatur",
-            "content": "Et possimus non veniam minus soluta. Enim distinctio et et quis. Dolorem quo et. Harum hic aut molestiae tempora. Quaerat eum sit. Ducimus distinctio quia. Earum odio maxime. Quae dolore provident qui exercitationem cumque perferendis. Ut nesciunt voluptatem iure. Modi dolorum sunt.",
-            "category": {
-                "id": 38
-            },
-            "status": "rejected",
-            "createdAt": "2023-03-31T21:41:43.039Z"
-        },
-        {
-            "id": 4,
-            "title": "Non Modi Alias",
-            "content": "Aliquam dicta laboriosam vel culpa qui. Ut autem quam omnis ullam. Cumque ut dolore dicta molestiae accusantium enim commodi. Libero perspiciatis est quasi. Harum repellat deleniti illum ipsam. Eveniet rem expedita eos cum. Aspernatur est at cum est sapiente perferendis earum. Cumque aut a aut laboriosam incidunt illo sed. Est voluptatem expedita eveniet et iure ipsa quibusdam voluptatem. Aut voluptatibus nemo eveniet quibusdam.",
-            "category": {
-                "id": 18
-            },
-            "status": "rejected",
-            "createdAt": "2022-09-14T04:20:10.820Z"
-        },
-        {
-            "id": 5,
-            "title": "Ea Et Eveniet",
-            "content": "Laudantium et velit perspiciatis ut rem consequatur debitis deserunt. Aut tempora dolorem assumenda nulla aliquam animi enim nesciunt. Libero quaerat iste voluptatibus totam sed. Similique sit voluptas ad at nihil. Aut vero ut numquam omnis. Omnis est similique excepturi repudiandae. Enim laboriosam quaerat earum. Molestias eos perferendis labore dolor quia facere aliquam assumenda. Qui voluptatum eveniet impedit fuga. Pariatur omnis perspiciatis.",
-            "category": {
-                "id": 50
-            },
-            "status": "published",
-            "createdAt": "2022-04-09T20:42:03.527Z"
         }
     ]
 }
