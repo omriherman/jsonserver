@@ -33,5 +33,97 @@
             "contract": "",
             "action": 2
         }
+    ],
+    "integrations": [
+        {
+            "id": 1,
+            "integrationName": "Gmail",
+            "status": 0,
+            "image": "http://takeof.me/gmailLogo.svg"
+        },
+        {
+            "id": 2,
+            "integrationName": "Salesforce",
+            "status": 0,
+            "image": "http://takeof.me/salseforceLogo.svg"
+        },
+        {
+            "id": 3,
+            "integrationName": "Tipalti",
+            "status": 0,
+            "image": "http://takeof.me/tipaltiLogo.svg"
+        },
+        {
+            "id": 4,
+            "integrationName": "Priority",
+            "status": 0,
+            "image": "http://takeof.me/priorityLogo.svg"
+        },
+        {
+            "id": 5,
+            "integrationName": "Slack",
+            "status": 0,
+            "image": "http://takeof.me/slackLogo.svg"
+        },
+        {
+            "id": 6,
+            "integrationName": "Outlook",
+            "status": 0,
+            "image": "http://takeof.me/outlookLogo.svg"
+        },
+        {
+            "id": 7,
+            "integrationName": "Microsoft Teams",
+            "status": 0,
+            "image": "http://takeof.me/teamsLogo.svg"
+        },
+        {
+            "id": 8,
+            "integrationName": "Sage",
+            "status": 0,
+            "image": "http://takeof.me/sageLogo.svg"
+        },
+        {
+            "id": 9,
+            "integrationName": "Hubspot",
+            "status": 0,
+            "image": "http://takeof.me/hubspotLogo.svg"
+        },
+        {
+            "id": 10,
+            "integrationName": "Quickbooks",
+            "status": 0,
+            "image": "http://takeof.me/quickbooksLogo.svg"
+        },
+        {
+            "id": 11,
+            "integrationName": "Vendr",
+            "status": 0,
+            "image": "http://takeof.me/vendrLogo.svg"
+        },
+        {
+            "id": 12,
+            "integrationName": "Epicor",
+            "status": 0,
+            "image": "http://takeof.me/epicorLogo.svg"
+        },
+        {
+            "id": 13,
+            "integrationName": "DocuSign",
+            "status": 0,
+            "image": "http://takeof.me/docusignLogo.svg"
+        },
+        {
+            "id": 14,
+            "integrationName": "Acumatica",
+            "status": 0,
+            "image": "http://takeof.me/acumaticaLogo.svg"
+        },
+        {
+            "id": 15,
+            "integrationName": "Syspro",
+            "status": 0,
+            "image": "http://takeof.me/sysproLogo.svg"
+        }
     ]
 }
