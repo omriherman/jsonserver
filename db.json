@@ -1,6 +1,7 @@
 {
     "suppliers": [
         {
+            "id": 1,
             "supplierName": "Stripe",
             "supplierCountry": "Ireland",
             "contractTitle": "Stripe Services Agreement - United States",
@@ -11,6 +12,7 @@
             "action": 1
         },
         {
+            "id": 2,
             "supplierName": "HCL Tech LTD",
             "supplierCountry": "India",
             "contractTitle": "SaaS Agreement",
@@ -21,6 +23,7 @@
             "action": 2
         },
         {
+            "id": 3,
             "supplierName": "Cloudflare Inc.",
             "supplierCountry": "US",
             "contractTitle": "Cloudflare Self-Serve Subscription Agreement",
