@@ -125,5 +125,203 @@
             "status": 0,
             "image": "http://takeof.me/sysproLogo.svg"
         }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "title": "Illum Quia Ex"
+        },
+        {
+            "id": 2,
+            "title": "Distinctio Enim Blanditiis"
+        },
+        {
+            "id": 3,
+            "title": "Quia Rerum Amet"
+        },
+        {
+            "id": 4,
+            "title": "Dolorem Labore Porro"
+        },
+        {
+            "id": 6,
+            "title": "Dignissimos Architecto Ratione"
+        },
+        {
+            "id": 7,
+            "title": "Adipisci Voluptatem Eum"
+        },
+        {
+            "id": 8,
+            "title": "Est Autem Similique"
+        },
+        {
+            "id": 9,
+            "title": "Sunt In Iusto"
+        },
+        {
+            "id": 10,
+            "title": "At Maiores Quibusdam"
+        },
+        {
+            "id": 11,
+            "title": "Ea Non Consequatur"
+        },
+        {
+            "id": 12,
+            "title": "Molestiae Similique Odit"
+        },
+        {
+            "id": 13,
+            "title": "Eos Eaque Nulla"
+        },
+        {
+            "id": 14,
+            "title": "Dolor Natus Impedit"
+        },
+        {
+            "id": 15,
+            "title": "Qui Autem Minus"
+        },
+        {
+            "id": 16,
+            "title": "Reiciendis Aliquid Ut"
+        },
+        {
+            "id": 17,
+            "title": "Quos Ex Labore"
+        },
+        {
+            "id": 18,
+            "title": "Cum Occaecati Numquam"
+        },
+        {
+            "id": 19,
+            "title": "Fuga Explicabo Alias"
+        },
+        {
+            "id": 20,
+            "title": "Fuga Provident Nobis"
+        },
+        {
+            "id": 21,
+            "title": "Dolorem Et Eos"
+        },
+        {
+            "id": 22,
+            "title": "Id Atque Corporis"
+        },
+        {
+            "id": 23,
+            "title": "Et Quis Aut"
+        },
+        {
+            "id": 24,
+            "title": "Atque Repudiandae Dolor"
+        },
+        {
+            "id": 25,
+            "title": "Aut Consectetur Ut"
+        },
+        {
+            "id": 26,
+            "title": "Vel Eos Expedita"
+        },
+        {
+            "id": 27,
+            "title": "Pariatur Ipsam Eum"
+        },
+        {
+            "id": 28,
+            "title": "Nihil Sunt Id"
+        },
+        {
+            "id": 29,
+            "title": "A Neque Officiis"
+        },
+        {
+            "id": 30,
+            "title": "Sunt Amet Doloremque"
+        },
+        {
+            "id": 31,
+            "title": "Quibusdam Exercitationem Inventore"
+        },
+        {
+            "id": 32,
+            "title": "Ea Ut Sed"
+        },
+        {
+            "id": 33,
+            "title": "Facilis Consectetur Non"
+        },
+        {
+            "id": 34,
+            "title": "Et Veniam Aut"
+        },
+        {
+            "id": 35,
+            "title": "Laborum Et Voluptas"
+        },
+        {
+            "id": 36,
+            "title": "Quo Omnis Eaque"
+        },
+        {
+            "id": 37,
+            "title": "Excepturi Ea Inventore"
+        },
+        {
+            "id": 38,
+            "title": "Sit Inventore Incidunt"
+        },
+        {
+            "id": 39,
+            "title": "Impedit Consequatur Voluptas"
+        },
+        {
+            "id": 40,
+            "title": "Non Odit Mollitia"
+        },
+        {
+            "id": 41,
+            "title": "Numquam Voluptatem Quibusdam"
+        },
+        {
+            "id": 42,
+            "title": "Dicta Consequatur Deleniti"
+        },
+        {
+            "id": 43,
+            "title": "Aut Est Nulla"
+        },
+        {
+            "id": 44,
+            "title": "Et Voluptas Aliquid"
+        },
+        {
+            "id": 45,
+            "title": "Excepturi Quae Labore"
+        },
+        {
+            "id": 46,
+            "title": "Totam Et Necessitatibus"
+        },
+        {
+            "id": 47,
+            "title": "Voluptatibus Possimus Autem"
+        },
+        {
+            "id": 48,
+            "title": "Facilis Dicta Eum"
+        },
+        {
+            "id": 49,
+            "title": "Tempora Aut Et"
+        },
+        {
+            "id": 50,
+            "title": "Voluptatem Assumenda Magni"
+        }
     ]
 }
